@@ -80,7 +80,3 @@ Day-to-day: enterprise data pipelines, SAP ERP reconciliation, Power BI dashboar
 <p align="left">
   <em>"Without data, you're just another person with an opinion"</em> — W. Edwards Deming
 </p>
-
-<p align="left">
-  <sub>Last Updated: 31/03/2026</sub>
-</p>
