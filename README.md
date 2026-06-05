@@ -73,7 +73,7 @@ Day-to-day: enterprise data pipelines, SAP ERP reconciliation, Power BI dashboar
 
 ### Connect
 
-[LinkedIn](#) &nbsp;·&nbsp; [Personal Website](#) &nbsp;·&nbsp; [Email](#)
+[LinkedIn](https://www.linkedin.com/in/davidshumba/)  ·  [Personal Website](https://www.davidshumba.com/)  ·  [Email](mailto:davidshumba2005@gmail.com)
 
 ---
 
