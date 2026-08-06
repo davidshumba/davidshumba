@@ -2,7 +2,7 @@
 
 <p align="left">
   Data Degree Apprentice · Mercedes-Benz UK &nbsp;|&nbsp; 
-  BSc Digital & Technology Solutions (Data Pathway) &nbsp;|&nbsp; 
+  BSc Digital & Technology Solutions &nbsp;|&nbsp; 
   Aspiring Data Scientist
 </p>
 
