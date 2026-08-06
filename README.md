@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I’m David</h1>
 
 <p align="left">
-  Data Analyst Degree Apprentice · Mercedes-Benz UK &nbsp;|&nbsp; 
+  Data Degree Apprentice · Mercedes-Benz UK &nbsp;|&nbsp; 
   BSc Digital & Technology Solutions (Data Pathway) &nbsp;|&nbsp; 
-  Future Data Scientist
+  Aspiring Data Scientist
 </p>
 
 <p align="left">
@@ -65,7 +65,7 @@
 
 ### Background
 
-Currently completing a **Level 6 Degree Apprenticeship** in Digital & Technology Solutions (Data Analyst pathway) while working as a Data Analyst at **Mercedes-Benz**.
+Currently completing a **Level 6 Degree Apprenticeship** in Digital & Technology Solutions while working as a Data Apprentice at **Mercedes-Benz**.
 
 Day-to-day: enterprise data pipelines, SAP ERP reconciliation, Power BI dashboards, and process automation. Outside of work: building a portfolio that reflects where I'm going, not just where I am.
 
